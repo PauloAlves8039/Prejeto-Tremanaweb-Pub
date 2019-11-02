@@ -6,7 +6,7 @@ curso pertencente a formação [Desenvolvedor Front-end Júnior](https://www.tre
 - HTML5
 - CSS3
 
-# Interface
+# Screenshot
 <html lang="pt-br">
 <head>
 </head>

@@ -1,10 +1,14 @@
+:root{
+    --font-color: white;
+}
+
 /* ***** GERAL ***** */
 html, body{
     height: 100%;
     margin: 0;
     font-family: Heveltica, Arial, sans-serif;
     background-color: #161616;
-    color: white;
+    color: var(--font-color);
 }
 
 .section-background{
@@ -69,7 +73,7 @@ html, body{
 }
 
 .nav-link{
-    color: white;
+    color: var(--font-color);
     text-decoration: none;
     font-size: 20px;
 }

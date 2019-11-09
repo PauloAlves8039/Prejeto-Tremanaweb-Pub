@@ -133,16 +133,19 @@ html, body{
     background-image: url('./imagens/bar_interior.jpg');
 }
 
-
 /***** NOSSOS DRINKS *****/
 .drinks{
     background-image: url('./imagens/drinks_background.jpg');
 }
 
-
 .drink-image{
-    max-width: 30%;
-    margin-top: -30px
+    max-width: 33%;
+    margin-top: -30px;
+    transition: filter 0.8s ease;
+}
+
+.drink-image:hover{
+    filter: grayscale(100%);
 }
 
 /***** FOOTER *****/

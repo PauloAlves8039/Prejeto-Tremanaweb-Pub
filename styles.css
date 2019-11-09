@@ -52,6 +52,7 @@ html, body{
 
 .header-video{
     width: 100%;
+    filter: brightness(180%) blur(8px);
 }
 
 .navigation{

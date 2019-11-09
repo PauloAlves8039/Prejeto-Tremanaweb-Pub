@@ -1,0 +1,20 @@
+CACHE MANIFEST
+# v1.0.0
+
+CACHE:
+./styles/styles.css
+./imagens/bar_interior.jpg
+./imagens/beers.jpg
+./imagens/cocktails.jpg
+./imagens/drink.jpg
+./imagens/copo_cerveja.jpg
+./imagens/drinks.jpg
+./imagens/drinks_background.jpg
+./imagens/logo.png
+./imagens/staff.jpg
+http://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css
+http://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/fonts/fontawesome-webfont.woff2?v=4.7.0
+
+
+FALLBACK:
+./styles/online.css ./styles/offline.css

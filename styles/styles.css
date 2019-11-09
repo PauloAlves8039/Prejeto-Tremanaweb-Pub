@@ -1,5 +1,7 @@
 :root{
     --font-color: white;
+    --font-color-hover: #0079d0;
+    --menu-background: #3b3b3b;
 }
 
 /*****  GERAL *****/
@@ -60,7 +62,7 @@ html, body{
     top: 0;
     left: 0;
     right: 0;
-    background-color: #3b3b3b;
+    background-color: var(--menu-background);
     z-index: 100;
 }
 
@@ -102,7 +104,7 @@ html, body{
 
 .navigation-list{
     padding: 0;
-    background-color: #3b3b3b;
+    background-color: var(--menu-background);
 }
 
 .navigation-list-item{
@@ -117,7 +119,7 @@ html, body{
 }
 
 .nav-link:hover{
-    color: #0079d0;
+    color: var(--font-color-hover);
 }
 
 .logo{
@@ -130,12 +132,12 @@ html, body{
 
 /*****  O LUGAR *****/
 .lugar{
-    background-image: url('./imagens/bar_interior.jpg');
+    background-image: url('../imagens/bar_interior.jpg');
 }
 
 /***** NOSSOS DRINKS *****/
 .drinks{
-    background-image: url('./imagens/drinks_background.jpg');
+    background-image: url('../imagens/drinks_background.jpg');
 }
 
 .drink-image{

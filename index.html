@@ -1,17 +1,19 @@
 <!DOCTYPE html>
-<html lang="pt-br">
+<html lang="pt-br" manifest="./meu_manifesto.appcache">
 <head>
     <meta charset='utf-8'>
     <meta http-equiv='X-UA-Compatible' content='IE=edge'>
     <title>Tremnaweb Pub</title>
     <meta name="viewport" id="viewport" content="initial-scale=1, maximum-scale=1, user-scalable=0">
     <link rel="icon" href="./imagens/drink.png">
-    <link rel='stylesheet' type='text/css' href='./styles.css'>
-    <link href="//maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet" />
+    <link rel='stylesheet' href='./styles/styles.css'>
+    <link rel='stylesheet' href='./styles/online.css'>
+    <link href="//maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet">
 </head>
 <body>    
-    <header class="main-header" >
+    <header class="main-header">
         <i class="ancora" id="header"></i>
+        <img class="header-video" src="./imagens/copo_cerveja.jpg">
         <video class="header-video" src="./video/copo_cerveja.mp4" autoplay muted loop></video>
         <nav class="navigation">
             <label class="navigation-label" for="navigation-check">
@@ -20,7 +22,7 @@
             <input class="navigation-check" id="navigation-check" type="checkbox">
             <ul class="navigation-list">
                 <li class="navigation-list-item">
-                    <a href="#header" class="nav-link" >Home</a>
+                    <a href="#header" class="nav-link">Home</a>
                 </li>
                 <li class="navigation-list-item">
                     <a href="#lugar" class="nav-link">O Lugar</a>
@@ -33,12 +35,12 @@
                 </li>
             </ul>
         </nav>
-        <img class="logo" src="./imagens/logo.png" />
+        <img class="logo" src="./imagens/logo.png">
     </header>
     <section class="lugar section-background">
         <i class="ancora" id="lugar"></i>
         <div class="section-container">
-            <h1 class="section-title" >O Lugar</h1>
+            <h1 class="section-title">O Lugar</h1>
             <p class="section-text">
                 Nosso pub fica em um antigo trem que atravessava toda a Europa, e agora foi trazido para o Brasil.
             </p>
@@ -54,24 +56,24 @@
             <img class="drink-image" src="./imagens/cocktails.jpg">
             <img class="drink-image" src="./imagens/beers.jpg">
             <img class="drink-image" src="./imagens/drinks.jpg">
-        <p class="section-text drink-text" >
+        <p class="section-text drink-text">
             Possuímos os mais diversos tipos de bebidas. Com certeza você encontrará um com a sua personalidade, o que torna o TremNaWeb um ótimo lugar para se reunir nas mais diversas ocasiões. Venha Conferir!
         </p>
         </div>
     </section>
     <footer class="main-footer">
         <i class="ancora" id="footer"></i>
-        <section class="footer-section" >
+        <section class="footer-section">
             <h1>Contato</h1>
             <p>(81) 3333-4444</p>
             <p>tremnaweb@example.com</p>
         </section>
-        <section class="footer-section" >
+        <section class="footer-section">
             <h1>Endereço</h1>
             <p>Av Cais do Apolo, Bairro do Recife, 111</p>
             <p>Recife, PE</p>
         </section>
-        <section class="footer-section" >
+        <section class="footer-section">
             <h1>Funcionamento</h1>
             <p>
                 Segunda a Sexta<br>

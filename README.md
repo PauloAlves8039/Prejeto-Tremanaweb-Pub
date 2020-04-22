@@ -1,4 +1,4 @@
-<h1 align="center">:tropical_drink: Prejeto Tremanaweb Pub</h1>
+<h1 align="center">:tropical_drink: Projeto Tremanaweb Pub</h1>
 
 ## :computer: Projeto
 Projeto desenvolvido para fins didáticos com o objetivo de simular uma página de divulgação referente a um pub fictício.  
@@ -18,4 +18,4 @@ curso pertencente a formação [Desenvolvedor Front-end Pleno](https://www.trein
 ![screenshot1](https://github.com/PauloAlves8039/Prejeto-Tremanaweb-Pub/blob/master/imagens/tremnaweb.png)
 
 ## Author
-:computer: [Paulo Alves](https://github.com/PauloAlves8039)
+:boy: [Paulo Alves](https://github.com/PauloAlves8039)

@@ -1,7 +1,7 @@
-<h1 align="center">:tropical_drink: Projeto Tremanaweb Pub</h1>
+<h1 align="center">:tropical_drink: Projeto Tremnaweb Pub</h1>
 
 ## :computer: Projeto
-Projeto desenvolvido para fins didáticos com o objetivo de simular uma página de divulgação referente a um pub fictício.  
+Repositório de um projeto desenvolvido para fins didáticos, com o objetivo de simular uma página de divulgação referente a um pub fictício que funciona em um trem.  
 
 código fonte teve base no curso [HTML5 e CSS3 - Desenvolvimento web Básico](https://www.treinaweb.com.br/curso/desenvolvimento-web-com-html5-e-css3-basico), 
 curso pertencente a formação [Desenvolvedor Front-end Júnior](https://www.treinaweb.com.br/formacao/desenvolvedor-front-end-junior).  
